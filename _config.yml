@@ -35,9 +35,9 @@ timezone: Asia/Shanghai
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : TeXt
+  name      : James Putman
   url       :
-  avatar    : /assets/apple-touch-icon.png
+  avatar    : https://lh3.googleusercontent.com/a-G1M66jb1hCYGhmv89uOYS1bpEgC-mdc_1s7sfYBzIIZel93OoPo_a3lZFJShhCZ-vraCRk7u1Kb0hhvN78HdT2a9pbtJupYkcRz2cnY52X0KT5mbUB-d-jp7eTMHgJ-gdweYF90w=w2400
   bio: >
     WyldenCo
   email     : wyldenco@gmail.com
@@ -52,6 +52,7 @@ author:
   linkedin  :
   github    : 
   npm       :
+  instagram : https://www.instagram.com/growingwithjim/
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
@@ -124,7 +125,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: https://wyldenco-com.disqus.com/admin/ # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
