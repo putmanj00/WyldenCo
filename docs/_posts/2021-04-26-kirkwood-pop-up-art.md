@@ -12,8 +12,8 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /screenshots/kirkwod_cover.jpg
-permalink: /docs/en/swiper
-key: docs-swiper
+permalink: /posts/kirkwood-pop-up-art
+key: posts-kirkwood-pop-up-art
 ---
 
 This Saturday, I had the pleasure of attending the First Annual Pop Up Exhibit at the newly rennovated Performing Arts Center in Kirkwod, MO. 
