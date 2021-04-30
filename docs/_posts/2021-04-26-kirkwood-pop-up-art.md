@@ -5,6 +5,8 @@ tags: Art
 comments: true
 author: James Putman
 show_author_profile: true
+show_edit_on_github: false
+pageview: true
 article_header:
   type: overlay
   theme: dark
@@ -30,8 +32,8 @@ As the new home for [STAGES](https://stagesstlouis.org/pac/), a Chesterfield Bro
 <h3>Arrival</h3>
 <div class="swiper my-3 swiper-first swiper-first--image swiper-first--1">
   <div class="swiper__wrapper">
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/vQpNa_f7wqzqacGHTUbRrMpO7j_terbf78DOstpEeUghsOzUvOVqKbjpH8pS6Qe3rSbNjsVmdmL9OaRPIQvu-N_zGJnlKnyR0VNBfXB7SA6gmj-2fb10YpmZ_5IyJhG4LyldIX98RQ=w2400"/><p>Wonder and excitement is building! (Image courtesy of Kirkwood performing arts center)</p></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/LYTJZ_tucRhlWtNqzSMeU8_IU2nf-waF4n6s2YrZhBnQf7ERBB4XJlEGezKWEjWEwrmf8f_xXpE0Z0mZZ_-tY9J7ctXE9G6Liv7UtLF468sqpJTcBFQpNjhcVUMWTdswwm3AVr9ntbA=w2400"/><p>What a beautiful place for an art show! (Image courtesy of Kirkwood performing arts center)</p></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/vQpNa_f7wqzqacGHTUbRrMpO7j_terbf78DOstpEeUghsOzUvOVqKbjpH8pS6Qe3rSbNjsVmdmL9OaRPIQvu-N_zGJnlKnyR0VNBfXB7SA6gmj-2fb10YpmZ_5IyJhG4LyldIX98RQ=w2400"/><p>Wonder and excitement is building!</p></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/LYTJZ_tucRhlWtNqzSMeU8_IU2nf-waF4n6s2YrZhBnQf7ERBB4XJlEGezKWEjWEwrmf8f_xXpE0Z0mZZ_-tY9J7ctXE9G6Liv7UtLF468sqpJTcBFQpNjhcVUMWTdswwm3AVr9ntbA=w2400"/><p>What a beautiful place for an art show!</p></div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
@@ -46,7 +48,7 @@ As the new home for [STAGES](https://stagesstlouis.org/pac/), a Chesterfield Bro
   });
 </script>
 
-From the moment I arrived at KPAC on the drizzly morning of April 24th, I could feel the creativity emminating from the building from its sleek modern architecture comprised of an asymetrical placement of concrete, glass and steel. As I approached the building, the details of the building began to emerge. The back half of the building contained the theatre, and is constructed of concrete. The front portion contained the exhibit and resembled two shipping containers that had been stacked and offset. Monochromatic greys colored vertical slats of metal that created the exterior of the shipping container portions of KPAC, while the front of the building was brilliantly designed with tall windows to showcase the KPAC lobby. All of this created a marvelous display of Brutalist architecture. 
+From the moment I arrived at KPAC on the drizzly morning of April 24th, I could feel the creativity emminating from the building from its sleek modern architecture comprised of an asymetrical placement of concrete, glass and steel. As I approached the center, the details began to emerge. The back half of the building holds the theatre, and is constructed of concrete. The front portion hosted the exhibit and resembled two shipping containers that had been stacked and offset. Monochromatic greys colored vertical slats of metal that created the exterior of the shipping container portions of KPAC, while the front of the building was brilliantly designed with tall windows to showcase the KPAC lobby. All of this created a marvelous display of Brutalist architecture. 
 
 The feeling of wonder at what lie ahead, coupled with the overwhelming sense of excitement at the opportunity to gourge my senses with new art, was like greeting an old friend after spending years apart. Once I walked through the main doors, I could see that the architects made sure that quality and asthetics were at the forefront of Kirkwoods shareholders minds. If the goal were to bring a piece of New York to Missouri, that goal was accomplished (I have never been to New York, but I imagine the beautiful interior of the Performing Arts Center is something you would encunter whilst attending a broadway or art show in the Big Apple).
 
@@ -70,12 +72,12 @@ The feeling of wonder at what lie ahead, coupled with the overwhelming sense of 
     $('.swiper-demo--2').swiper({ animation: false });
   });
 </script>
-Being a people person, I tried to make an effor to chat with each artist, but only had enough time to make it to a few booths that lined the walls of the KPAC. I was amazed at how well the lighting added to all the artwork, helping illuminate and bring it all to life. The balance between carefully placed artificial lighting, and sunlight that entered through the towering windows, provided the perfect amount of light to allow the artists, and visitors, a way to truly appreciate the art as the artists intended. 
+Being a people person, I tried to make an effort to chat with each artist, but only had enough time to make it to a few booths that lined the walls of the KPAC. I was amazed at how well the lighting added to all the artwork, helping illuminate and bring it all to life. The balance between carefully placed artificial lighting, and sunlight that entered through the towering windows, provided the perfect amount of light to allow the artists, and visitors, a way to truly appreciate the art as the artists intended. 
 
 <div class="swiper my-3 swiper-test swiper-test--image swiper-test--1">
   <div class="swiper__wrapper">
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/OJ1i3iMvjPN2SfowWw-w47zbeuWzbE3Gjy_1kPxMmtn06uZl7R_W96SeLcJE6GOEmmWIoHUek-vg9xjHvRi2DxtZ21W6vaztc7xZ08aaJeSlkx7bVEe6ZYPtJEQCMQwjUzix-o4Z2yI=w2400"/><p>Beautiful lighting!</p></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/MRbCcemy22dU2v6m1VQ745DErwGk9cWePW4lVTt5n9gG9ry9KQLUUdgWWcCR4BWlZprgzO8CP2bJ5uOmg4DG18RQB14wLF_iTpKBrTlCB56gbt2iug_SK39Ct_pGTMIw8l1pUevVUxg=w2400"/><p>View from upstairs!</p></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/OJ1i3iMvjPN2SfowWw-w47zbeuWzbE3Gjy_1kPxMmtn06uZl7R_W96SeLcJE6GOEmmWIoHUek-vg9xjHvRi2DxtZ21W6vaztc7xZ08aaJeSlkx7bVEe6ZYPtJEQCMQwjUzix-o4Z2yI=w2400"/><p>Beautiful lighting! (Image courtesy of Kirkwood performing arts center)</p></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://lh3.googleusercontent.com/MRbCcemy22dU2v6m1VQ745DErwGk9cWePW4lVTt5n9gG9ry9KQLUUdgWWcCR4BWlZprgzO8CP2bJ5uOmg4DG18RQB14wLF_iTpKBrTlCB56gbt2iug_SK39Ct_pGTMIw8l1pUevVUxg=w2400"/><p>View from upstairs! (Image courtesy of Kirkwood performing arts center)</p></div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
