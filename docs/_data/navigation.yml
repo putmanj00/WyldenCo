@@ -1,7 +1,7 @@
 header:
   - title:      Home
     url:        /test/
-  - title:      Docs
+  - title:      Information
     url:        /docs/en/coming-soon
     key:        docs
   - title:      Archive
@@ -13,8 +13,8 @@ header:
 docs-en:
   - title:      Art
     children:
-      - title:  Coming soon...
-        url:    
+      - title:  Impracticle Shoes Art Collective 
+        url:    /docs/en/impractical-shoes-art-collective
   - title:      Music
     children:
       - title:  Coming soon...

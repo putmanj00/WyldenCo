@@ -1,7 +1,7 @@
 header:
   - title:      Home
     url:        /test/
-  - title:      Docs
+  - title:      Information
     url:        /docs/en/quick-start
     key:        docs
     key:        samples
@@ -14,7 +14,7 @@ header:
 docs-en:
   - title:      Art
     children:
-      - title:  Coming soon...
+      - title:  Impractical Shoes Art Collective
         url:    
   - title:      Music
     children:
